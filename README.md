@@ -1,2 +1,4 @@
 # automaticall_email_answer
-With this project I want to automatically answer my email with the help of AI.
+This is just a mock project and not intended for real usage. Just want to figure some things out.
+Goal:
+Answer emails automatically with openAI API. 
