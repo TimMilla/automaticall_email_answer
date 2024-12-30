@@ -6,3 +6,5 @@ venv/
 .env
 #vscode
 .vscode/
+# python data 
+ __pycache__
