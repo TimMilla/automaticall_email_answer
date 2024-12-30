@@ -1,0 +1,8 @@
+# openai api key
+config.py
+# venv 
+venv/
+# enviroment variables
+.env
+#vscode
+.vscode/
